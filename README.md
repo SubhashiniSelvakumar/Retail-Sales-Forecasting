@@ -1,4 +1,4 @@
-# Retail Sales Forecasting Project
+# Retail Sales Forecasting
 
 ## Overview
 
